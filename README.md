@@ -51,7 +51,7 @@
     <div id="imageContainer">
         <img src="https://i.hizliresim.com/LyoPgz.png" alt="Uyarı Sonrası Resim">
         <div id="textOverlay">
-            Uhud Kartalı <br> Affetmez
+            
         </div>
     </div>
 
